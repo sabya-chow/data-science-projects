@@ -35,8 +35,6 @@ The dataset contains 99,978 customer records with 36 features, including demogra
 ## Project Workflow
 
 1. **Problem Understanding and Data Preparation**
-   - Problem definition and business opportunity exploration.
-   - Data collection and descriptive statistics.
    - Data cleaning and preprocessing (missing value imputation, data type conversion, feature encoding, outlier treatment, etc.).
    
 2. **Exploratory Data Analysis (EDA)**
@@ -70,15 +68,4 @@ The dataset contains 99,978 customer records with 36 features, including demogra
 
 - Customers with a high number of archived payments and frequent reminders are more likely to default.
 - Strategies to mitigate default risk include targeted interventions for high-risk customers and incentive programs for consistent payers.
-
-## Usage Instructions
-
-### Dependencies
-
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `seaborn`
-- `sklearn`
-
 
